@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.minhaTabela{
+  border: solid red 1px;
+}
+
+.formulario{
+
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+.card{
+  margin-bottom: 20px;
+}
+
